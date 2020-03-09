@@ -38,11 +38,12 @@
 						images: {
 							'images/bg01.jpg': 'center',
 							'images/bg02.jpg': 'center',
-							'images/bg03.jpg': 'center'
+							'images/bg03.jpg': 'center',
+							'images/bl.png': 'center'
 						},
 
 					// Delay.
-						delay: 6000
+						delay: 5000
 
 				};
 
