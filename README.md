@@ -1,5 +1,5 @@
 # pm
 A site for pm game.
 
-![GitHub Logo](/images/logo.png)
+![PM](/images/bl.png)
 Format: ![Alt Text](url)
